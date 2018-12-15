@@ -17,7 +17,7 @@ Body - 1.5mm thick.  Altering body thickness will change overall height and migh
 
 Top - 1.5mm thick min.  The top plate has a center hole that was made for a sink nut (found on Armattan).  The sink nut is used for the GoPro mount.
 
-Camera Plate - 2mm thick.  Recommend 006 size orings that go between the carbon and camera.  This is to help hold the camera in the set angle.  Slot in the camera plate is set at 45 degrees to help with setting the camera angle.
+Camera Plate - 2mm thick.  Recommend 006 size orings that go between the carbon and camera.  This is to help hold the camera in the set angle.  Slot in the camera plate is set at 45 degrees to help with setting the camera angle.  Requires 15mm standoffs for the normal build and 20mm standoffs if using the camera plate labeled "20mm".
 
 Arm Spacer - 1mm thick
 
