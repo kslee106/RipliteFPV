@@ -17,7 +17,6 @@ Body - 1.5mm thick.  Altering body thickness will change overall height and migh
 
 Top - 1.5mm thick min.  The top plate has a center hole that was made for a sink nut (found on Armattan).  The sink nut is used for the GoPro mount.
 
-
 Camera Plate - 2mm thick.  Recommend 006 size orings that go between the carbon and camera.  This is to help hold the camera in the set angle.  Slot in the camera plate is set at 45 degrees to help with setting the camera angle.
 
 Arm Spacer - 1mm thick
@@ -29,3 +28,5 @@ LEDs - 1mm thick.  1oz copper.  Requires WS2812b LEDs.  0604 1uF capacitor recom
 Antenna Mount - Printed with TPU.  Fits the SMA pigtail included with the TBS Unify VTX.  Held in with M3 6mm bolts.  Antenna tubes are the "Forever Tubes".  Will work with any 5mm dia standoffs (15mm tall).
 
 RaceWire/LED Holders - Designed as keepers to secure the PCBs to the arm and prevent them from being ripped off.  Print in TPU.  They must be applied to the arm assembly before attaching the arm and wires to the frame.
+
+GoPro Mount - GoPro H6/7 mount at 35 degrees.  Needs M3 2mm spacers to be inserted to help with TPU integrity.  The slots are for optional straps to keep the GoPro secure.  https://www.mouser.com/ProductDetail/761-M0501-3-AL?r=761-M0501-3-AL
